@@ -20,7 +20,7 @@ Purpose: Show regulators in $ amount how much welfare AirBnB generates in NYC ma
 
 The Consumer Surplus Diagram
 ![Consumer Surplus](Images/ConsumerSurplus.jpg)
-<img src="Images/ConsumerSurplus.jpg" width="2">
+<img src="Images/ConsumerSurplus.jpg" width="1">
 
 Three Critical Variables
 1. Price
