@@ -1,6 +1,6 @@
 # Airbnb's Consumer Surplus
 
-Capstone Project for New York University's Center for Data Science: Introduction to Data Science
+Capstone Project for New York University's Stern School of Business (MBA): Data Science for Business Analytics
 
 ## Directory Structure
 `Code` contains code used in this project
